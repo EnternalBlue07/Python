@@ -1,3 +1,6 @@
+You have to import matplotlib so that it could
+work effectively otherwise it will throw an error
+when running this program.
 #!/usr/bin/python
 
 """
